@@ -1,4 +1,4 @@
-# idea-git
+# git
 
 
 
@@ -81,5 +81,7 @@ git push 远程地址 分支名
 git pull 远程地址 分支名
 #将远程库代码克隆到本地
 git clone 远程
+#SSH免密登录协议
+ssh-keygen -t rsa -C 远程库邮箱
 ```
 
