@@ -77,5 +77,9 @@ git remote -v
 git remote add 别名 远程地址
 #将本地库推送到远程库
 git push 远程地址 分支名
+#将远程库的代码拉取到本地
+git pull 远程地址 分支名
+#克隆远程库到本地
+git clone 远程
 ```
 
